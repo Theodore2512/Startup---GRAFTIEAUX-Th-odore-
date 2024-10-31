@@ -1,0 +1,18 @@
+.banner {
+background-image: linear-gradient(100deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 50%), url(https://cdn.prod.website-files.com/62133fadfe3e62c7292d066c/622b3260e6ad3d8b501655f5_Oracle_09b6779ccb.jpeg);
+color: whitesmoke;
+padding: 150px 0px;
+background-size: cover;
+background-position: center;
+}
+.banner h1 {
+font-size: 45px;
+color: white;
+}
+.banner h2 {
+font-size: 30px;
+font-weight: bolder;
+opacity: 0.8;
+margin-bottom: 30px;
+
+}
